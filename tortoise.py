@@ -228,7 +228,7 @@ class TortoiseWorld():
                     ok=True
 
 
-# Here you define the tortoise's brain
+
 # The sensing input consists of the following parameters:
 # - free_ahead (not blocked to rock or wall)
 # - lettuce_ahead (in square in front of tortoise)
